@@ -24,7 +24,7 @@ body{
 }
 
 .logo{
-    background-image: url("Amazon-logo.png");
+    background-image: url("img/Amazon-logo.png");
     background-size: cover;
     height: 3.125rem;
     width: 6.25rem;
@@ -265,7 +265,7 @@ button{
 .hero-img{
     height: 25rem;
     width: 90%;
-    background-image: url(hero1.jpg);
+    background-image: url(img/hero1.jpg);
     background-size: cover;
 }
 
